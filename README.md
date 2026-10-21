@@ -11,6 +11,3 @@ I am a student at UGSOT, currently learning Git and GitHub
 ## Projects
 - PC Builder: Visualize your Dream PC 
 
-## Social Links
-- GitHub: https://github.com/raj-harkal
-- LinkedIn: https://www.linkedin.com/in/raj-harkal/
