@@ -11,3 +11,5 @@ I am a student at UGSOT, currently learning Git and GitHub
 ## Projects
 - PC Builder: Visualize your Dream PC 
 
+## Contacts
+- Email: raj.harkal.professional@gmail.com
